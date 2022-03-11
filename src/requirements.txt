@@ -1,0 +1,9 @@
+gym==0.18.0
+matplotlib
+pyglet
+scikit-image
+torch
+numpy
+Pillow
+atari-py
+tensorboard
